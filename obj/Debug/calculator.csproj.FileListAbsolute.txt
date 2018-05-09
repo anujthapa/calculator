@@ -1,0 +1,9 @@
+D:\github\c-pratice\calculator\bin\Debug\calculator.exe
+D:\github\c-pratice\calculator\bin\Debug\calculator.pdb
+D:\github\c-pratice\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\calculator\obj\Debug\calculator.frm_Calculator.resources
+D:\github\c-pratice\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\github\c-pratice\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\github\c-pratice\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\calculator\obj\Debug\calculator.exe
+D:\github\c-pratice\calculator\obj\Debug\calculator.pdb
